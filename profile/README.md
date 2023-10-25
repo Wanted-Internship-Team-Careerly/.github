@@ -1,6 +1,6 @@
 # 우리는...
 
-원티드에서 진행하는 프리온보딩 백엔드 인턴십 7기 J팀입니다.
+원티드에서 진행하는 프리온보딩 백엔드 인턴십 7기 **커리어리**팀입니다.
 
 <p align="center">
   <img src="https://github.com/Wanted-Internship-Team-J/.github/assets/130378232/f41f1804-eb39-4a96-9d48-b03a1dffa334" width=700px>
